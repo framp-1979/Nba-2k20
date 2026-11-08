@@ -205,3 +205,6 @@ This repository serves as the official landing page for NBA 2K20. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NBA 2K20 today!**
+
+---
+**Last updated:** 2026-11-08 06:48:48 UTC
