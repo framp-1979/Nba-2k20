@@ -207,4 +207,4 @@ This repository serves as the official landing page for NBA 2K20. The software i
 **Get the most recent version of NBA 2K20 today!**
 
 ---
-**Last updated:** 2026-11-11 00:19:13 UTC
+**Last updated:** 2026-11-11 07:21:34 UTC
